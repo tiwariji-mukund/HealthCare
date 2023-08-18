@@ -11,7 +11,7 @@ A Multi-Feature Healthcare App for the Elderly.
 
 ## SOLUTION
 
-<p>I focused on primodial and primary stages of prevention of 4 diseases which are very common in India. Also the prototype is designed for general public, though i was needed to make the prototype for Sunita Sharma and was asked to identify one use case, but i thought that making it for general and developing it then can result a better solution, if not for now but after it can.</p>
+<p>I focused on primodial and primary stages of prevention of 5 diseases which are very common in India. Also the prototype is designed for general public, though i was needed to make the prototype for Sunita Sharma and was asked to identify one use case, but i thought that making it for general and developing it then can result a better solution, if not for now but after it can.</p>
 
 This exercise is prototype of elderly care. It will take user's name,age and height to get register.<br><br>
 Once user get register they will get acess of main menu. Now user can use all the features under menu section.The features are: <br><br>
