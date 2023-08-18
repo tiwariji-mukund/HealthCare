@@ -6,6 +6,9 @@ A Multi-Feature Healthcare App for the Elderly.
 
 <p>Identify one use case for elderly care (for the age group 65+) and create a working prototype to demonstrate your idea using technology known to you.</p>
 
+![image](https://github.com/tiwariji-mukund/KratinHealthCare/assets/92503293/b85bbd45-c5dd-4657-a1c7-e03e915d3793)
+
+
 ## SOLUTION
 
 <p>I focused on primodial and primary stages of prevention of 4 diseases which are very common in India. Also the prototype is designed for general public, though i was needed to make the prototype for Sunita Sharma and was asked to identify one use case, but i thought that making it for general and developing it then can result a better solution, if not for now but after it can.</p>
