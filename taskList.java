@@ -26,6 +26,7 @@ public class taskList {
 		status = "Completed";
 	}
 
+	// it will print the task list with task name, time and its status
 	public String toString() {
 		return "{" + "Task Name: " + taskName + ", Time: " + time + ", Status: " + status + "}";
 	}
